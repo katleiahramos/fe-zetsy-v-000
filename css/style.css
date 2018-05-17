@@ -19,12 +19,11 @@ body {
 
 /* Write all remaining styles here */
 header a {
-
-	color: rgb(152,173,166);
+color: rgb(152,173,166);
 text-decoration: none;
 }
 
-header a:v
+
 
 h1 {
 	font-size: 5em;
