@@ -23,7 +23,7 @@ h1 {
 	font-size: 5em;
 	font-family: 'Libre Bakersville', serif;
 	color: rgb(152,173,166);
-	font-weight: normal;
+	padding-bottom: 10px;
 }
 
 footer {
