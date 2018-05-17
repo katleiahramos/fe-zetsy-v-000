@@ -31,4 +31,5 @@ h1 {
 #featured img {
 	border: 5px;
 	border-color: rgb(152,173,166);
+	border-style: solid;
 }
