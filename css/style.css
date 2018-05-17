@@ -24,3 +24,10 @@ h1 {
 	font-family: 'Libre Bakersville', serif;
 	color: rgb(152,173,166);
 }
+
+
+/*MEDIA*/
+
+img {
+	border: 5px;
+}
