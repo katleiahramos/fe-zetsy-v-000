@@ -18,7 +18,7 @@ body {
 }
 
 /* Write all remaining styles here */
-header a:live {
+header a:active {
 	font-size: 5em;
 	font-family: 'Libre Bakersville', serif;
 	color: rgb(152,173,166);
@@ -26,6 +26,8 @@ header a:live {
 	margin: 0 0 5px;
 	border-bottom: 1px solid #ccc;
 }
+
+header a:v
 
 h1 {
 	font-size: 5em;
