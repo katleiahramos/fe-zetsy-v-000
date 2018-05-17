@@ -43,3 +43,8 @@ footer {
 	border-color: #ccc;
 	border-style: solid;
 }
+
+#press img:hover{
+	transition: background-color 0.5s ease;
+	border-color: #fff;
+}
