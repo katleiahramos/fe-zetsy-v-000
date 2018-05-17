@@ -28,7 +28,7 @@ h1 {
 
 /*MEDIA*/
 
-img {
+#featured img {
 	border: 5px;
 	border-color: rgb(152,173,166);
 }
