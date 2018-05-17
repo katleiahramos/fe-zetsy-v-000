@@ -46,5 +46,5 @@ footer {
 
 #press img:hover{
 	transition: background-color 0.5s ease;
-	border-color: #111;
+	border-color: #ddd;
 }
